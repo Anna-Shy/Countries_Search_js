@@ -1,0 +1,40 @@
+#app-root {
+  text-align: center;
+}
+
+.divRadio,
+.divLanguage {
+  display: flex;
+  justify-content: center;
+}
+
+.radioInput {
+  margin: 15px 0 15px 15px;
+}
+
+.labelForRadio {
+  margin: 10px;
+}
+
+select {
+  margin: 15px;
+  width: 125px;
+  height: 20px;
+}
+
+td,
+th {
+  padding: 15px;
+  border: 1px solid #000;
+  padding: 15px 65px;
+}
+
+th {
+  background: #c088da;
+  color: #fff;
+}
+
+tr:hover {
+  background: #d2bedd;
+  color: #fff;
+}
